@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oustionse.github.io/oustionse.oustionse
+Sitemap: https://oustionse.github.io/app/oustionse.oustionse
+Sitemap: https://oustionse.github.io/assets/oustionse.oustionse
+Sitemap: https://oustionse.github.io/css/oustionse.oustionse
+Sitemap: https://oustionse.github.io/includes/oustionse.oustionse
+Sitemap: https://oustionse.github.io/item/oustionse.oustionse
+Sitemap: https://oustionse.github.io/src/oustionse.oustionse
